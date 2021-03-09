@@ -19,4 +19,4 @@ __      __               _ _____
     \/ \___/_/\_\___|\__,_|_____/ \___| \_/    \_/ 
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodvexed)](https://github.com/anuraghazra/github-readme-stats)
+[![BloodVexed´s GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodvexed)](https://github.com/anuraghazra/github-readme-stats)
