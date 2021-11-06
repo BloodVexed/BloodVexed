@@ -19,4 +19,4 @@ __      __               _ _____
     \/ \___/_/\_\___|\__,_|_____/ \___| \_/    \_/ 
 ```
 
-[![BloodVexed´s GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodvexed)](https://github.com/BloodVexed/)
+[![BloodVexed´s GitHub stats](https://github-readme-stats.vercel.app/api?username=vexedpy)](https://github.com/VexedPy/)
